@@ -25,7 +25,7 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="470px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="474px"/>
 </div>
 
 <!--h2 without bottom border-->
