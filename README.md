@@ -21,10 +21,11 @@
 - :thinking: Atualmente, estou aberto para novas `oportunidade`. Este é o meu [Linkedin](https://www.linkedin.com/in/pedro-henrique-franca/)
 <!--Intro end-->
  ##
+ ##
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="400px"/>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats" width="300px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="300px"/>
 </div>
 
 
