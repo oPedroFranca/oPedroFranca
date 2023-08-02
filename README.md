@@ -22,7 +22,7 @@
 <!--Intro end-->
  ##
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats" width="450px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="450px"/>
 
 <!--h2 without bottom border-->
