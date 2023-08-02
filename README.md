@@ -23,8 +23,8 @@
 ##
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="424px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oPedroFranca&show_icons=true&theme=tokyonight" alt="AkuraDiary's github stats" width="480px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oPedroFranca&theme=tokyonight" alt="mystreak" width="510px"/>
 </div>
 
 <!--h2 without bottom border-->
