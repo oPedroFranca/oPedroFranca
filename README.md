@@ -18,7 +18,7 @@
 - :gear: Explorando o mundo do desenvolvimento web com React e TypeScript.
 - :computer: Apaixonado por resolver problemas com código.
 - :art: Transformando ideias em interfaces intuitivas e atraentes.
-- :nerd_face: Sempre `aprendendo coisas novas`.
+- :nerd_face: Sempre `aprendendo coisas novas`
 - :thinking: Atualmente, estou aberto para novas `oportunidade`. Este é o meu [Linkedin](https://www.linkedin.com/in/pedro-henrique-franca/)
 <!--Intro end-->
 ##
