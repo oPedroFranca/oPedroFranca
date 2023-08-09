@@ -15,7 +15,7 @@
 
 <!--Intro start-->
 - :mortar_board: Estudante de Ciência da Computação.
-- :gear: Explorando o mundo do desenvolvimento web com React e TypeScript.
+- :gear: Explorando o mundo do desenvolvimento web com React e TypeScript
 - :computer: Apaixonado por resolver problemas com código.
 - :art: Transformando ideias em interfaces intuitivas e atraentes.
 - :nerd_face: Sempre `aprendendo coisas novas`.
